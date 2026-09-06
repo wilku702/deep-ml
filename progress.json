@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:23:16.534Z",
+  "generated_at": "2026-10-24T17:23:18.798Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-09-03T16:09:44.639Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:376": {
+      "kind": "problem",
+      "id": "376",
+      "title": "KV Cache for Efficient Autoregressive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/376",
+      "path": "problems/0376-kv-cache-for-efficient-autoregressive-attention",
+      "first_solved_at": "2026-09-06T23:59:34.466Z",
+      "last_pushed_at": "2026-09-06T23:59:34.466Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
