@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:23:18.798Z",
+  "generated_at": "2026-10-24T17:23:20.416Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-09-06T23:59:34.466Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:246": {
+      "kind": "problem",
+      "id": "246",
+      "title": "Birthday Problem Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/246",
+      "path": "problems/0246-birthday-problem-probability",
+      "first_solved_at": "2026-09-14T16:50:53.198Z",
+      "last_pushed_at": "2026-09-14T16:50:53.198Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
